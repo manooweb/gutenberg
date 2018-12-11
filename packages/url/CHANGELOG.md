@@ -1,3 +1,9 @@
+## 2.3.2 (Unreleased)
+
+### Bug Fixes
+
+- `addQueryArgs` will return only the querystring fragment if the passed `url` is undefined. Previously, an uncaught error would be thrown.
+
 ## 2.3.1 (2018-11-20)
 
 ### Bug fixes
