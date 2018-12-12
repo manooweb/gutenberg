@@ -96,7 +96,7 @@ _Example:_
 ```
 
 This is how you execute the script with presented setup:
-* `npm run lint:css` - lints CSS files in the whole project's directory.
+* `npm run lint:css` - lints CSS files in the entire project's directories.
 
 ### `wp-scripts test-unit-js`
 
